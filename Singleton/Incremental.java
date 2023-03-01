@@ -1,3 +1,4 @@
+package Singleton;
 class Incremental {
    private static Incremental INSTANCE = new Incremental();
    private static int count = 0;
